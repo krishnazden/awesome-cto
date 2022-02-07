@@ -25,3 +25,7 @@
 ### Monitoring
 1. Opentelemetry
 
+
+
+### Other Links
+1. [Other links and resources](https://kuchin.github.io/awesome-cto/)
