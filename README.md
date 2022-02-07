@@ -21,9 +21,13 @@
 3. ListMonk ( Self Hosted Email and Newsletter System)  [LinkMonk](https://listmonk.app/)
 
 
+### Cloud
+1. AWS [link to know about aws](https://github.com/open-guides/og-aws)
+2. AWS [official aws training](https://www.aws.training/)
+3. [AWS Skill builder](https://explore.skillbuilder.aws/lms/)
 
 ### Monitoring
-1. Opentelemetry
+1. Opentelemetry ( Fullstack observability framework) - Helps identify system are slow
 
 
 
