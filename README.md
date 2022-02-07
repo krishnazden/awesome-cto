@@ -28,6 +28,7 @@
 
 ### Monitoring
 1. Opentelemetry ( Fullstack observability framework) - Helps identify system are slow
+2. Zipkin
 
 
 
