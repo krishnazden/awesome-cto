@@ -31,6 +31,13 @@
 2. Zipkin
 
 
+### Testing
+1. Automated mobile testing [mobile testing](https://www.waldo.com)
+
+### Learning
+1. Learn about design and more. +750 resources [uxdatabase](https://www.uxdatabase.io/free-product-design-course)
+2. 
+
 
 ### Other Links
 1. [Other links and resources](https://kuchin.github.io/awesome-cto/)
