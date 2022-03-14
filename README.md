@@ -29,6 +29,7 @@
 ### Monitoring
 1. Opentelemetry ( Fullstack observability framework) - Helps identify system are slow
 2. Zipkin
+3. Rudder Stack [Rudder Stack](https://www.rudderstack.com/) Open Source Customer Data Infrastructure. Alternative to Segment
 
 
 ### Testing
@@ -38,6 +39,9 @@
 1. Learn about design and more. +750 resources [uxdatabase](https://www.uxdatabase.io/free-product-design-course)
 2. 
 
+
+###ERP
+1. ERP( OpenSource ERP) [erpnext](https://erpnext.com)
 
 ### Other Links
 1. [Other links and resources](https://kuchin.github.io/awesome-cto/)
