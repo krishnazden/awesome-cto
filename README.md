@@ -43,5 +43,13 @@
 ###ERP
 1. ERP( OpenSource ERP) [erpnext](https://erpnext.com)
 
+### Wireframing
+1. uizard.io [uizard.io](https://uizard.io)
+
+
+### DataVisualizaiton
+1. Apache Superset [Super Apache](https://superset.apache.org)
+2. Redash [Redash](https://redash.io/community/)
+
 ### Other Links
 1. [Other links and resources](https://kuchin.github.io/awesome-cto/)
