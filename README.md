@@ -30,6 +30,7 @@
 1. Opentelemetry ( Fullstack observability framework) - Helps identify system are slow
 2. Zipkin
 3. Rudder Stack [Rudder Stack](https://www.rudderstack.com/) Open Source Customer Data Infrastructure. Alternative to Segment
+4. Signoz ( open source telemetry collector)
 
 
 ### Testing
